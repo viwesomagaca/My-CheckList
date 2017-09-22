@@ -1,6 +1,6 @@
 # My-CheckList
 
-# waiterWebApp
+These are instructions that i set myself to do for each and every project that i completed!
 
 # Table of contents:
 ### About the App
