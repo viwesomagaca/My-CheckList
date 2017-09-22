@@ -28,17 +28,17 @@ These are instructions that i set myself to do for each and every project that i
    * What set up do they need to do for that?
   
   ### Running the app locally
-    Once they’ve installed everything they need, they have to start the app up before they can use it.
-    * How do they start the server?
-    * How about the database?
-    * How to view data in the database?
-    * How do they stop the server? 
-    * How about the database?
+   Once they’ve installed everything they need, they have to start the app up before they can use it.
+   * How do they start the server?
+   * How about the database?
+   * How to view data in the database?
+   * How do they stop the server? 
+   * How about the database?
          
   ### How to run the App
-    * Will you need software running in the Background? if yes, Which software?
-    * Which platform will you be able to run your app on?
+   * Will you need software running in the Background? if yes, Which software?
+   * Which platform will you be able to run your app on?
   
   ### How to use the App and What to expect?
-   * App conditions
+  * App conditions
    
